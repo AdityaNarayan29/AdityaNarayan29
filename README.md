@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
   
-  <p align="center" style="text-align:center;">[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aditya29.netlify.app/)</p> 
+ | <p align="center" style="text-align:center;">[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aditya29.netlify.app/)</p> |
 
 - 🔭 I’m currently working on MERN Stack Development.
 - 🌱 I’m currently learning AWS.
@@ -53,11 +53,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  
 ### 🔥 &nbsp; My Stats : 
  
-<p align="center" style="text-align:center;">
+|<p align="center" style="text-align:center;">
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdityaNarayan2000&theme=dark&theme=vision-friendly-dark)
   ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaNarayan2000&show_icons=true&theme=vision-friendly-dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaNarayan2000&layout=compact&theme=vision-friendly-dark)
-</p> 
+</p>|
 
 ---
 ### 🔥 &nbsp; Repos : 
