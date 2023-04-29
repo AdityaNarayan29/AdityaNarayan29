@@ -1,4 +1,4 @@
-<h1 align="center">Hi Geeks!👋👀 I'm  Aditya</h1><a target="_blank">
+<h1 align="center">Hi Geeks!👋👀 I'm  Aditya Narayan</h1><a target="_blank">
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -53,7 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  
 ### 🔥 &nbsp; My Stats : 
  
-*<p align="center" style="text-align:center;">
+* <p align="center" style="text-align:center;">
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdityaNarayan2000&theme=dark&theme=vision-friendly-dark)
   ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaNarayan2000&show_icons=true&theme=vision-friendly-dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaNarayan2000&layout=compact&theme=vision-friendly-dark)
