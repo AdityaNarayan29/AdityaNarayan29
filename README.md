@@ -1,5 +1,4 @@
 <h1 align="center">Hi Geeks!👋👀 I'm  Aditya & this is </h1>
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aditya29.netlify.app/)
 <a target="_blank">
 
 <div id="header" align="center">
@@ -16,9 +15,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about skills, strategies & pathways.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AdityaNarayan29-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adityanarayan29/)
 - ⚡ In my free time I solve problems on My DSA Repo and read tech articles.
-
-
-
 
 
 ### :technologist: &nbsp;About Me :
