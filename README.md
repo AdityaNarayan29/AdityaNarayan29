@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, Geeks!👀 I'm  Aditya.😁 </h1><a target="_blank">
+<h1 align="center">Hi Geeks!👋👀 I'm  Aditya.</h1><a target="_blank">
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
