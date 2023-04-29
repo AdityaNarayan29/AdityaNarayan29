@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ### :technologist: &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aditya29.netlify.app/)
 
 ---
   ![Snake animation](https://github.com/AdityaNarayan2000/AdityaNarayan2000/blob/output/github-contribution-grid-snake.svg)
