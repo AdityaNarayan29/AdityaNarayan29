@@ -3,7 +3,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div align:"center"> [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aditya29.netlify.app/) </div>
+  
+  | <p align="center">[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aditya29.netlify.app/)</p> |
+| --- |
+
 <p align="center">
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aditya29.netlify.app/)</p>
@@ -33,7 +36,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
- 
 
 ### 🛠 &nbsp;Frameworks and Tools :
 
@@ -53,14 +55,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
  
-
 --- 
  
 ### 🔥 &nbsp; My Stats : 
  
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdityaNarayan2000&theme=dark&theme=vision-friendly-dark)
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaNarayan2000&show_icons=true&theme=vision-friendly-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaNarayan2000&layout=compact&theme=vision-friendly-dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaNarayan2000&layout=compact&theme=vision-friendly-dark) -->
 
 
 ---
