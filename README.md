@@ -1,11 +1,12 @@
-<h1 align="center">Hi Geeks!👋👀 I'm  Aditya & this is </h1>
-<a target="_blank">
+<h1 align="center">Hi Geeks!👋👀 I'm  Aditya</h1><a target="_blank">
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
 </div>
+<div align:"center"> [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aditya29.netlify.app/) </div>
+<p align="center">
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aditya29.netlify.app/)</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MERN Stack Development.
@@ -20,7 +21,6 @@ Here are some ideas to get you started:
 ### :technologist: &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aditya29.netlify.app/)
 
 ---
   ![Snake animation](https://github.com/AdityaNarayan2000/AdityaNarayan2000/blob/output/github-contribution-grid-snake.svg)
