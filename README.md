@@ -5,7 +5,6 @@
 </div>
   
  | <p align="center" style="text-align:center;">[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aditya29.netlify.app/)</p> |
-| --- |
 
 Here are some ideas to get you started:
 
