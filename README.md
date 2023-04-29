@@ -2,7 +2,10 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
 </div>
+<p align="center">[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aditya29.netlify.app/)</p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MERN Stack Development.
@@ -14,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ In my free time I solve problems on My DSA Repo and read tech articles.
 
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aditya29.netlify.app/)
+
 
 
 ### :technologist: &nbsp;About Me :
@@ -57,31 +60,31 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  
 ### 🔥 &nbsp; My Stats : 
  
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdityaNarayan2000&theme=dark&theme=flag-india)
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaNarayan2000&show_icons=true&theme=flag-india)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaNarayan2000&layout=compact&theme=radical)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdityaNarayan2000&theme=dark&theme=vision-friendly-dark)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaNarayan2000&show_icons=true&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaNarayan2000&layout=compact&theme=vision-friendly-dark)
 
 
 ---
 ### 🔥 &nbsp; Repos : 
 <p>
   <a href="https://github.com/AdityaNarayan2000/Portfolio_Structure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaNarayan2000&repo=Portfolio_Structure&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaNarayan2000&repo=Portfolio_Structure&show_icons=true&theme=vision-friendly-dark" />
   </a>
   <a href="https://https://github.com/AdityaNarayan2000/LottoPlay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaNarayan2000&repo=LottoPlay&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaNarayan2000&repo=LottoPlay&show_icons=true&theme=vision-friendly-dark" />
   </a>
   <a href="https://github.com/AdityaNarayan2000/Gym">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaNarayan2000&repo=Gym&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaNarayan2000&repo=Gym&show_icons=true&theme=vision-friendly-dark" />
   </a>
   <a href="https://github.com/AdityaNarayan2000/DSA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaNarayan2000&repo=DSA&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaNarayan2000&repo=DSA&show_icons=true&theme=vision-friendly-dark" />
   </a>
   <a href="https://github.com/AdityaNarayan2000/Salut">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaNarayan2000&repo=Salut&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaNarayan2000&repo=Salut&show_icons=true&theme=vision-friendly-dark" />
   </a>
   <a href="https://github.com/AdityaNarayan2000/Sanscript-Tech.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaNarayan2000&repo=Sanscript-Tech.github.io&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaNarayan2000&repo=Sanscript-Tech.github.io&show_icons=true&theme=vision-friendly-dark" />
   </a>
 </p>
 
