@@ -54,31 +54,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🔥 &nbsp; My Stats : 
  
 *<p align="center" style="text-align:center;">
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdityaNarayan2000&theme=dark&theme=vision-friendly-dark)
-  ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaNarayan2000&show_icons=true&theme=vision-friendly-dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaNarayan2000&layout=compact&theme=vision-friendly-dark)
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdityaNarayan29&theme=dark&theme=vision-friendly-dark)
+  ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaNarayan29&show_icons=true&theme=vision-friendly-dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaNarayan29&layout=compact&theme=vision-friendly-dark)
 </p>
 
----
-### 🔥 &nbsp; Repos : 
-<p align="center">
-  <a href="https://github.com/AdityaNarayan2000/Portfolio_Structure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaNarayan2000&repo=Portfolio_Structure&show_icons=true&theme=vision-friendly-dark" />
-  </a>
-  <a href="https://https://github.com/AdityaNarayan2000/LottoPlay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaNarayan2000&repo=LottoPlay&show_icons=true&theme=vision-friendly-dark" />
-  </a>
-  <a href="https://github.com/AdityaNarayan2000/Gym">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaNarayan2000&repo=Gym&show_icons=true&theme=vision-friendly-dark" />
-  </a>
-  <a href="https://github.com/AdityaNarayan2000/DSA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaNarayan2000&repo=DSA&show_icons=true&theme=vision-friendly-dark" />
-  </a>
-  <a href="https://github.com/AdityaNarayan2000/Salut">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaNarayan2000&repo=Salut&show_icons=true&theme=vision-friendly-dark" />
-  </a>
-  <a href="https://github.com/AdityaNarayan2000/Sanscript-Tech.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaNarayan2000&repo=Sanscript-Tech.github.io&show_icons=true&theme=vision-friendly-dark" />
-  </a>
-</p>
 
