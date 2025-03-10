@@ -15,13 +15,6 @@
 - ⚡ In my free time I solve problems on My DSA Repo and read tech articles.
 
 
-### :technologist: &nbsp;About Me :
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
----
-  ![Snake animation](https://github.com/AdityaNarayan2000/AdityaNarayan2000/blob/output/github-contribution-grid-snake.svg)
-
 ### 🛠 &nbsp;Languages :
 
 <p align="center">
@@ -49,14 +42,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
  
---- 
- 
-### 🔥 &nbsp; My Stats : 
- 
-*<p align="center" style="text-align:center;">
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdityaNarayan29&theme=dark&theme=vision-friendly-dark)
-  ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaNarayan29&show_icons=true&theme=vision-friendly-dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaNarayan29&layout=compact&theme=vision-friendly-dark)
-</p>
-
 
