@@ -27,7 +27,8 @@
 I'm a passionate **Full-Stack Developer** based in **Dubai**, currently working at **Trasna Solutions**. I love crafting seamless user experiences and building scalable backend systems. With a strong foundation in both software engineering and security, I blend clean code with creative vision.
 
 - 💻 Working with **Next.js, React, Node.js, TypeScript** and modern tooling.
-- 🚀 Creator of [**MastUI**](https://mast-ui.vercel.app/): A themeable React UI library powered by ShadCN and Magic UI.
+- 🚀 Creator of [**Masst.dev**](https://masst.dev/).
+  
 - 🔧 Building **Eventify**: A monorepo-based microservices event management platform.
 - 🧠 400+ DSA problems solved on LeetCode.
 - 📚 Editor for **ByteByteGo (Vol. 3)** — a global best-seller series.
