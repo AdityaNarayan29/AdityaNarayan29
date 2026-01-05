@@ -24,40 +24,8 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
-I'm a passionate **Full-Stack Developer** based in **Dubai**, currently working at **Trasna Solutions**. I love crafting seamless user experiences and building scalable backend systems. With a strong foundation in both software engineering and security, I blend clean code with creative vision.
-
 - 💻 Working with **Next.js, React, Node.js, TypeScript** and modern tooling.
 - 🚀 Creator of [**Masst.dev**](https://masst.dev/).
-  
-- 🔧 Building **Eventify**: A monorepo-based microservices event management platform.
-- 🧠 400+ DSA problems solved on LeetCode.
-- 📚 Editor for **ByteByteGo (Vol. 3)** — a global best-seller series.
-- 🏆 CodeVita Rank: **668/350,000+**, GATE CS Top **4.6%**.
-
----
-
-### 🧩 Featured Projects
-
-#### 🌟 [Mast UI](https://mast-ui.vercel.app/)
-React UI component library with animated components, ShadCN theming, and microfrontend-ready setup.
-
-> `React` • `Magic UI` • `ShadCN` • `Monorepo` • `Nextra`
-
-#### 📅 Eventify (WIP)
-An event planning platform using typed microservices and a scalable monorepo architecture.
-
-> `tRPC` • `Turborepo` • `Next.js` • `Tailwind` • `Supabase`
----
-
-### 📈 Stats & Highlights
-
-- 👨‍💻 **Currently at:** Trasna (Dubai)
-- 🧪 Security-focused background (OWASP, BurpSuite, TDD)
-- 📜 Meta Front-End & Ingenious Cloud Masters certified
-- 🧠 GATE CS Top 4.6% | CodeVita Global Rank 668
-- 💬 Ask me about: **Microfrontends**, **Turborepo**, **React Animations**, **DevOps for Startups**
-
----
 
 ### 📫 Let's Connect
 
