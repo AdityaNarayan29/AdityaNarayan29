@@ -1,47 +1,69 @@
-<div id="header" align="center">
-  <h1 align="center">Hi Geeks!👋 I'm  Aditya</h1><a target="_blank">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<div align="center">
   
- # <p align="center" style="text-align:center;">[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adityanarayan.co.in/) [![Linkedin](https://img.shields.io/badge/LinkedIn-00599C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityanarayan29/)</p> 
+# Aditya Narayan
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</p>
+**Senior Software Engineer · Dubai, UAE**
 
-- 💻 Working with **Next.js, React, Node.js, TypeScript** and modern tooling.
-- 🚀 Creator of [**Masst.dev**](https://masst.dev/).
+Systems architect scaling products to 1.2B+ devices. Founder of [Masst.dev](https://masst.dev).
 
-### 📫 Let's Connect
+[![Portfolio](https://img.shields.io/badge/adityanarayan.co.in-000000?style=flat-square&logo=vercel&logoColor=white)](https://adityanarayan.co.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityanarayan29/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://dub.sh/aditya29-twitter)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adityanarayan29j@gmail.com)
 
-<h1 align="center">
-  <a href="https://adityanarayan.co.in/">
-    <img src="https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/adityanarayan29/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:adityanarayan29j@gmail.com">
-    <img src="https://img.shields.io/badge/Email-adityanarayan29j@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</h1>
+</div>
 
+---
 
+### What I Do
 
- 
+I build multi-tenant SaaS platforms, design microservice architectures, and lead engineering teams. Currently focused on developer tooling and EdTech through [Masst.dev](https://masst.dev) — an ecosystem of CLI tools, UI components, AI-powered system design docs, and a school management platform.
 
+Previously: architected enterprise systems at **Trasna Solutions** (1.2B+ devices, 500K+ daily API calls) and **Azaya LLC** (multi-tenant broker CRM with MetaTrader 5 integration).
+
+---
+
+### Tech Stack
+
+```
+Frontend     React · Next.js · TypeScript · Tailwind CSS · ShadCN · Zustand · Redux
+Backend      Node.js · NestJS · Express · FastAPI · GraphQL · WebSockets · RabbitMQ
+Data         PostgreSQL · MongoDB · Redis · Prisma · Supabase · TimescaleDB
+AI/ML        LangChain · Pinecone · OpenAI APIs
+Infra        AWS · Docker · Kubernetes · Vercel · GitHub Actions · CI/CD
+Languages    TypeScript · JavaScript · Python · Go · C++ · SQL
+```
+
+---
+
+### Masst Ecosystem  ·  [masst.dev](https://masst.dev)
+
+| Project | What it does |
+|---------|-------------|
+| [**Masst CLI**](https://cli.masst.dev) | Scaffolds production-ready SaaS monorepos (Next.js + NestJS + Prisma + Docker) in 60s |
+| [**Masst UI**](https://ui.masst.dev) | 50+ accessible React components · A11y compliant · Tailwind + Shadcn |
+| [**Masst Docs**](https://docs.masst.dev) | AI-powered system design platform · 35+ HLD/LLD roadmaps · LangChain + Pinecone |
+| [**Masst DB**](https://adityanarayan29.github.io/masstDB/) | Go CLI for multi-database backups with AWS S3, compression & scheduling |
+| [**Masst Campus**](https://campus.masst.dev) | School management SaaS — students, attendance, grades, RBAC |
+| [**LeetDaily**](https://leetdaily.masst.dev) | Daily LeetCode tracker with streaks, analytics & personalized study plans |
+
+---
+
+### Highlights
+
+- 🏆 **TCS CodeVita 10** — Rank 688 / 350K+ participants (99.81 percentile)
+- 🎓 **GATE CS** — Top 4.6%
+- 📐 **LeetCode** — 500+ problems solved
+- 👥 Led a team of 4 engineers, improving sprint velocity by 25%
+- ☁️ Deployed AWS infrastructure hosting 15+ MT5 instances at 99.9% uptime
+
+---
+
+<div align="center">
+  
+**Building in public. Open to collaborations.**
+
+[![Portfolio](https://img.shields.io/badge/adityanarayan.co.in-000?style=for-the-badge&logo=vercel&logoColor=white)](https://adityanarayan.co.in/)
+[![Masst.dev](https://img.shields.io/badge/masst.dev-6C3BF5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkw0IDdMMTIgMTJMMjAgN0wxMiAyWiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white)](https://masst.dev)
+
+</div>
