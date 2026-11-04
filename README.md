@@ -4,7 +4,9 @@
 
 **Senior AI Engineer · Acting CTO @ [HireStella](https://hirestella.ai) · Dubai, UAE · Work Visa**
 
-Building AI employees for Gulf enterprises. Systems architect who has scaled products to 1.2B+ devices. Founder of [Masst.dev](https://masst.dev).
+Building AI employees for Gulf enterprises. Systems architect who has scaled products to 1.2B+ devices. Founder of [Masst.dev](https://masst.dev) and [masst.ai](https://masst.ai).
+
+**5K active users** on Tap to Trade · **750K+ visits** on Masst Docs · **444 users** on LeetDaily
 
 [![Portfolio](https://img.shields.io/badge/adityanarayan.co.in-000000?style=flat-square&logo=vercel&logoColor=white)](https://adityanarayan.co.in/)
 [![Masst.dev](https://img.shields.io/badge/masst.dev-6C3BF5?style=flat-square&logo=hackthebox&logoColor=white)](https://masst.dev)
@@ -77,11 +79,12 @@ Tools        Git · Jest · Cypress · Jira · Figma · GitHub Copilot
 | Project | What it does | Stack |
 |---------|-------------|-------|
 | [**masst.ai**](https://masst.ai) | "Company brain" — an AI knowledge layer you can plug into any product (MVP) | LLMs · RAG · pgvector |
+| **Tap to Trade** | One-tap MT5 trading for a live trading community · 5K active users | FastAPI · Python · MT5 |
 | [**Masst CLI**](https://cli.masst.dev) | Scaffolds SaaS monorepos (Next.js + NestJS + Prisma + Docker) in 60s | Node.js · Commander.js · Docker |
-| [**Masst UI**](https://ui.masst.dev) | 50+ accessible React components · 100% A11y compliant | React · Tailwind · Shadcn · Radix |
+| [**Masst UI**](https://ui.masst.dev) | 50+ React components built on Radix primitives for accessibility | React · Tailwind · Shadcn · Radix |
 | [**Masst Docs**](https://docs.masst.dev) | AI-powered system design platform · 35+ HLD/LLD roadmaps · 750K+ organic visits | LangChain · Pinecone · OpenAI |
 | [**Masst Trader**](https://trader.masst.dev) | AI trading platform · plain English → MT5 strategies | Groq · Llama 3.3 · MT5 · WebSockets |
-| [**LeetDaily**](https://leetdaily.masst.dev) | Daily LeetCode tracker with streaks, analytics & study plans | Next.js · PostgreSQL · Prisma |
+| [**LeetDaily**](https://leetdaily.masst.dev) | Daily LeetCode tracker with streaks, analytics & study plans · 444 users | Next.js · PostgreSQL · Prisma |
 | [**Masst Campus**](https://campus.masst.dev) | School management SaaS — students, attendance, grades, RBAC | Next.js · PostgreSQL · Prisma |
 | [**Masst DB**](https://adityanarayan29.github.io/masstDB/) | Multi-database backups with AWS S3, compression & scheduling | Go · AWS S3 · Docker |
 
@@ -90,13 +93,10 @@ Tools        Git · Jest · Cypress · Jira · Figma · GitHub Copilot
 ### Highlights
 
 - 🤖 Leading a 12-person AI engineering team at **HireStella**
-- 🏆 **TCS CodeVita 10** — Rank 668 / 350K+ participants (top 0.19% globally)
+- 🏆 **TCS CodeVita 10** — Rank 688 / 350K+ participants (top 0.2% globally)
 - 🎓 **GATE CS** — Qualified twice, top 4.6% nationally (2023)
 - 📖 **ByteByteGo Vol. 3** — Editor & Reviewer for the global best-selling system design series
 - 📐 **LeetCode** — 516+ problems solved
-- 👥 Led 4 engineers with code reviews ensuring best practices, improving sprint velocity by 25%
-- ☁️ Deployed AWS infrastructure hosting 15+ MT5 instances at 99.9% uptime
-- 🔒 15+ vulnerability assessments with BurpSuite / OWASP ZAP · 95% test coverage via TDD
 
 ---
 
