@@ -92,7 +92,7 @@ Tools        Git · Jest · Cypress · Jira · Figma · GitHub Copilot
 
 ### Highlights
 
-- 🤖 Leading a 12-person AI engineering team at **HireStella**
+- 🤖 Leading AI engineering at **HireStella**
 - 🏆 **TCS CodeVita 10** — Rank 688 / 350K+ participants (top 0.2% globally)
 - 🎓 **GATE CS** — Qualified twice, top 4.6% nationally (2023)
 - 📖 **ByteByteGo Vol. 3** — Editor & Reviewer for the global best-selling system design series
