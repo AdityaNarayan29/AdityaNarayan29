@@ -6,7 +6,7 @@
 
 Building AI employees for Gulf enterprises. Systems architect who has scaled products to 1.2B+ devices. Founder of [Masst.dev](https://masst.dev) and [masst.ai](https://masst.ai).
 
-**5K active users** on Tap to Trade · **750K+ visits** on Masst Docs · **444 users** on LeetDaily
+**5K active users** on Tap to Trade · **750K+ visits** on Masst Docs · **480+ users** on LeetDaily
 
 [![Portfolio](https://img.shields.io/badge/adityanarayan.co.in-000000?style=flat-square&logo=vercel&logoColor=white)](https://adityanarayan.co.in/)
 [![Masst.dev](https://img.shields.io/badge/masst.dev-6C3BF5?style=flat-square&logo=hackthebox&logoColor=white)](https://masst.dev)
@@ -70,7 +70,7 @@ Tools        Git · Jest · Cypress · Jira · Figma · GitHub Copilot
 [![CLI](https://img.shields.io/badge/cli.masst.dev-1A1A2E?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://cli.masst.dev)
 [![UI](https://img.shields.io/badge/ui.masst.dev-6C3BF5?style=for-the-badge&logo=storybook&logoColor=white)](https://ui.masst.dev)
 [![Docs](https://img.shields.io/badge/docs.masst.dev-0EA5E9?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.masst.dev)
-[![LeetDaily](https://img.shields.io/badge/leetdaily.masst.dev-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetdaily.masst.dev)
+[![LeetDaily](https://img.shields.io/badge/leetdaily.com-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetdaily.com)
 [![Trader](https://img.shields.io/badge/trader.masst.dev-00C853?style=for-the-badge&logo=tradingview&logoColor=white)](https://trader.masst.dev)
 [![Campus](https://img.shields.io/badge/campus.masst.dev-F43F5E?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://campus.masst.dev)
 
@@ -84,7 +84,7 @@ Tools        Git · Jest · Cypress · Jira · Figma · GitHub Copilot
 | [**Masst UI**](https://ui.masst.dev) | 50+ React components built on Radix primitives for accessibility | React · Tailwind · Shadcn · Radix |
 | [**Masst Docs**](https://docs.masst.dev) | AI-powered system design platform · 35+ HLD/LLD roadmaps · 750K+ organic visits | LangChain · Pinecone · OpenAI |
 | [**Masst Trader**](https://trader.masst.dev) | AI trading platform · plain English → MT5 strategies | Groq · Llama 3.3 · MT5 · WebSockets |
-| [**LeetDaily**](https://leetdaily.masst.dev) | Daily LeetCode tracker with streaks, analytics & study plans · 444 users | Next.js · PostgreSQL · Prisma |
+| [**LeetDaily**](https://leetdaily.com) | Daily LeetCode tracker with streaks, analytics & study plans · 480+ users | Next.js · PostgreSQL · Prisma |
 | [**Masst Campus**](https://campus.masst.dev) | School management SaaS — students, attendance, grades, RBAC | Next.js · PostgreSQL · Prisma |
 | [**Masst DB**](https://adityanarayan29.github.io/masstDB/) | Multi-database backups with AWS S3, compression & scheduling | Go · AWS S3 · Docker |
 
